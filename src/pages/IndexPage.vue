@@ -27,6 +27,28 @@
           A plugin to add VoIP server on PaperMC-based Minecraft servers. It adds proximity voice chat to Minecraft to add immersion using Netty over TCP/IP sockets.
         </div>
       </div>
+      <div class="col-12">
+        <div class="section-title">
+          Art
+        </div>
+
+        <div class="col-xs-12 col-md-6">
+          <div class="item-title">
+            TBA
+          </div>
+          <div class="text-body1">
+            Some art stuff
+          </div>
+        </div>
+        <div class="col-sx-12 col-md-6">
+          <div class="item-title">
+            TBA
+          </div>
+          <div class="text-body1">
+            Some art stuff
+          </div>
+        </div>
+      </div>
     </div>
   </q-page>
 </template>
